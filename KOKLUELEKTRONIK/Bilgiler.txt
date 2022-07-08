@@ -1,0 +1,9 @@
+1) Admin Girişi için = KULLANICI ID: admin ŞİFRE: admin
+2) Personel Girişi için = Kullanıcı ID: personel ŞİFRE: personel
+3) Kullanıcı Girişi için = Kullanıcı ID: burak ŞİFRE: 123
+
+ÖNEMLİ NOT!!!
+
+1)Giriş yaptıktan sonra sepete ekle dediğimizde 2. kez tıkladığımızda ekliyor.
+
+2)Giriş yaparken kullanıcı id şifre yazıldıktan sonra ENTER ile giriş yaptığımızda girmez id şifre yazıldıktan sonra butona tıklamamız gerekiyor. 
